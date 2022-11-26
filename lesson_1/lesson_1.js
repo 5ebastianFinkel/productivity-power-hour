@@ -14,3 +14,13 @@ changeMe('test')
 // you cannot changeMe
 
 // Zeilen aus- und einkommentieren: ALT + /
+
+    let user = {
+    name: 'George',
+    surname: 'Hoover'
+}
+
+// Aenderung der Shortcut Belegung
+// STRG + ALT + S  =>  Oeffnet das Settings Menu => Keymap => Search for Çomment
+
+
