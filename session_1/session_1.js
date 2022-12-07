@@ -13,7 +13,10 @@ changeMe('test')
 
 // you cannot changeMe
 
-// Zeilen aus- und einkommentieren: ALT + /
+// 3.) Alles und ueberall suchen: SHIFT + SHIFT
+
+
+// 4.) Zeilen aus- und einkommentieren: ALT + /
 
     let user = {
     name: 'George',
@@ -22,5 +25,6 @@ changeMe('test')
 
 // Aenderung der Shortcut Belegung
 // STRG + ALT + S  =>  Oeffnet das Settings Menu => Keymap => Search for Çomment
+
 
 
